@@ -1,2 +1,2 @@
-console_calculator
-# One simple c-coded console calculator
+# console_calculator
+## One simple c-coded console calculator
